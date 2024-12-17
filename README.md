@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FarhanSiddiqui2812
-- 👀 I’m interested in Web Development|Software Engineering| AI/ML
+- 👀 I’m interested in Web Development | Software Engineering | AI/ML
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
